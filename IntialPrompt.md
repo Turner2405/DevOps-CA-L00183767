@@ -115,20 +115,9 @@ Project structure
 
 Provide this exact recommended structure:
 
-adder/
-├── pom.xml
-└── src/
-    └── main/
-        ├── java/
-        │   └── com/
-        │       └── example/
-        │           └── adder/
-        │               ├── Adder.java
-        │               ├── AdderApplication.java
-        │               └── AdderController.java
-        └── resources/
-            └── templates/
-                └── index.html
+
+<img width="394" height="289" alt="image" src="https://github.com/user-attachments/assets/c1e3e752-b050-406d-b7fc-b15dd4ecf0c1" />
+
 
 Maven configuration
 
@@ -184,19 +173,8 @@ http://localhost:8080
 
 Explain briefly how the request flows:
 
-HTML form
-    ↓
-POST /
-    ↓
-AdderController
-    ↓
-Adder.add(a, b)
-    ↓
-result added to Model
-    ↓
-Thymeleaf renders index.html
-    ↓
-Browser displays result
+<img width="260" height="275" alt="image" src="https://github.com/user-attachments/assets/34809e84-9744-4bf8-9f0c-aba4fde73f7a" />
+
 Do not add error handling, validation, styling, JavaScript, databases, REST endpoints, or other features unless they are required for the application to work.
 
 Before presenting the final code, check carefully that:
