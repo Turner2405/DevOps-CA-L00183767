@@ -17,15 +17,16 @@ Language:  Java 21.0.0
 IDE: Visual Studio Code
 
 # Project Start - 07/10/2026
+
+## Project Creation
+The start of the project was created using ChatGPT; the original prompt can be found in the InitialPrompt.md file 
+
 ## Software Hierarchry 
 <p>Starting tree of the project shown in Figure 1.</p>
 <div align="center">
-<img width="495" height="309" alt="image" src="https://github.com/user-attachments/assets/2558cf89-a607-4715-ad63-dad75ad9d084" />
+
 <p>Figure 1: Starting tree and files of the application</p>
 </div>
-
-## Project Creation
-The start of the project was created using ChatGPT the original prompt can be found in the Intial Prompt
 
 ## Branching
 
