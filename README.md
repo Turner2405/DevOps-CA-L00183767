@@ -10,6 +10,9 @@ Student Number: L00183767
 
 # Project Overview 
 
-Calculator Application
+Description of Application: Basic Calculator       
+
+Language:  Java 21.0.0
+
 
 
