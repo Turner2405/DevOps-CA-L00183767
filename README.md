@@ -24,6 +24,9 @@ IDE: Visual Studio Code
 <p>Figure 1: Starting tree and files of the application</p>
 </div>
 
+## Project Creation
+The start of the project was created using ChatGPT the original prompt can be found in the Intial Prompt
+
 ## Branching
 
 The branching strategy that will be used is Feature Branching because it allows for dedicated feature branches for structured, isolated development, and there is only one developer, so any integration delays and complex merges will be at a minimum.
