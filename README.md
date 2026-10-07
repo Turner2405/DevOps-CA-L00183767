@@ -1,3 +1,4 @@
+
 # DevOps-CA-L00183767
 ## Creator Details
 DevOps CA Project Assignment
@@ -24,7 +25,7 @@ The start of the project was created using ChatGPT; the original prompt can be f
 ## Software Hierarchry 
 <p>Starting tree of the project shown in Figure 1.</p>
 <div align="center">
-
+<img width="394" height="289" alt="Screenshot 2026-10-07 180853" src="https://github.com/user-attachments/assets/c90e9733-b1fe-4619-9c32-d5fdc9d4d579" />
 <p>Figure 1: Starting tree and files of the application</p>
 </div>
 
