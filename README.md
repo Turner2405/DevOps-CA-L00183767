@@ -9,6 +9,9 @@ Email: L00183767@atu.ie
 
 Student Number: L00183767
 
+### How to build
+mvn spring-boot:run
+
 # Project Overview 
 
 Description of Application: Basic Calculator       
