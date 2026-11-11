@@ -9,8 +9,16 @@ Email: L00183767@atu.ie
 
 Student Number: L00183767
 
-### How to build
+## Getting Started
+Run this in your command prompt.
+``` 
+git clone https://github.com/Turner2405/DevOps-CA-L00183767.git
+---
+cd DevOps-CA-L00183767/Calculator
+--
 mvn spring-boot:run
+<-->
+```
 
 # Project Overview 
 
@@ -23,7 +31,7 @@ IDE: Visual Studio Code
 # Project Start - 07/10/2026
 
 ## Project Creation
-The start of the project was created using ChatGPT; the original prompt can be found in the InitialPrompt.md file 
+The start of the project was created using a previous project i had that i stripped down into a single add function 
 
 ## Software Hierarchry 
 <p>Starting tree of the project shown in Figure 1.</p>
