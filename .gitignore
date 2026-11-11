@@ -9,7 +9,13 @@
 *.user
 *.userosscache
 *.sln.docstates
+
+# Enviroment and Secrets
 *.env
+*.env.local
+*config/secrets.json
+*.pen
+*.key
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
